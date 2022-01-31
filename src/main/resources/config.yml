@@ -1,0 +1,17 @@
+test: 'Enter Anything here'
+
+
+
+
+
+
+# Aston 1.0 - Changes what the leave and join message looks like.
+# Aston 1.1 - Added a death logger. When a player dies, it will show their location in the chat.
+# Aston 1.2 - Added a log into console when a player dies.
+# Aston 1.3 - Added an uptime command which will show the uptime of the server.
+# Aston 1.4 - Added a config file aswell as an info command.
+# Aston 1.5 - Added a ping command which shows the current players ping.
+# Aston 1.6.1 - Added a cords command to see your cords and other players.
+# Aston 1.6.2 - You can now see the ping of other players.
+
+

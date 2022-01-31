@@ -1,0 +1,35 @@
+name: Aston
+version: '${project.version}'
+main: me.drkony.aston.Aston
+api-version: 1.18
+authors: [ Drkongy ]
+description: A small plugin for Aston University!
+commands:
+  test:
+    description: This is a mini test command.
+    usage: /<command>
+
+  uptime:
+    description: gets the uptime of the serer.
+    usage: /<command>
+
+  info:
+    description: shows infomation about the plugin
+    usage: /<command>
+
+  ping:
+    description: Gets Player Ping
+    usage: /<command>
+
+  cords:
+    description: Gets Players Cords
+    usage: /<command>
+
+  banana:
+    description: Testing
+    usage: /<command>
+
+  playtime:
+    description: Gets your playtime.
+    usage: /<command>
+
